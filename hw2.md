@@ -21,11 +21,11 @@ gantt
     section 8
     轉換檔案     :after a5  , 20d
     section 9
-    系統測試     :after a6 , 25d
+    系統測試     :a9,after a6 , 25d
     section 10
     使用者訓練     :a10, after a7 , 20d
     section 11
-    使用者測試     :after a10 , 25d
+    使用者測試     :after a9 , 25d
  
 
 

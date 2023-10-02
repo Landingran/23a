@@ -9,7 +9,7 @@ gantt
     任務分配     :after a1  , 4d
     取得硬體     :after a1  , 17d
     section 4
-    程式開發      :2023-10-7  , 70d
+    程式開發      :a4, 2023-10-7  , 70d
     section 5
     安裝硬體     :2023-10-19   ,10d
     section 6

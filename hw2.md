@@ -13,7 +13,7 @@ gantt
     section 4
     程式開發      :a4, 2023-10-7  , 70d
     section 5
-    安裝硬體     :a5, 2023-10-19   ,10d
+    安裝硬體     :a5, after a4   ,10d
     section 6
     程式測試    :a6, after a4   ,4d
     section 7
@@ -23,9 +23,9 @@ gantt
     section 9
     系統測試     :a9,after a6 , 25d
     section 10
-    使用者訓練     :a10, after a7 , 20d
+    使用者訓練     :a10, after a7 and a8 , 20d
     section 11
-    使用者測試     :after a9 , 25d
+    使用者測試     :after a9 and a10 , 25d
  
 
 

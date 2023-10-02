@@ -13,7 +13,7 @@ gantt
     section 5
     安裝硬體     :2023-10-19   ,10d
     section 6
-    程式測試    :after 4   ,4d
+    程式測試    :after    ,4d
 
 
 

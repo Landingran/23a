@@ -4,8 +4,8 @@
 gantt
     title Mission Time
 
-    section Section
-    A task           :a1, 2014-01-01, 30d
+    section 1  
+    研礙計畫          :a1, 1, 
     Another task     :after a1  , 20d
     section Another
     Task in sec      :2014-01-12  , 12d

@@ -35,6 +35,6 @@ gantt
 
 ```
 # PERT 圖
-![NKUST](logo.png '高科大')
+![PERT](PERT.png 'PERT')
 # 關鍵路徑
 關鍵路徑:1->2->4->6->9->11

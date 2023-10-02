@@ -5,9 +5,16 @@ gantt
     title Mission Time
 
     section 1  
-    研礙計畫          :a1 2023-10-02, 1, 
-    任務分配    :after a1  , 4
-    取得硬體     :after a1 , 17
+    研礙計畫          :a1 2023-10-02, 1d
+    任務分配    :after a1  , 4d
+    取得硬體     :after a1 , 17d
+    section 4
+    程式開發       :2023-10-05, 70d
+    section 5
+    安裝硬體     :2023-10-18, 10d
+    section 6
+    程式測試    :2023-12-10, 30
+    
 
 ```
 # PERT 圖

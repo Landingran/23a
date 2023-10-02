@@ -11,10 +11,14 @@ gantt
     section 4
     程式開發      :a4, 2023-10-7  , 70d
     section 5
-    安裝硬體     :2023-10-19   ,10d
+    安裝硬體     :a5, 2023-10-19   ,10d
     section 6
     程式測試    :after a4   ,4d
-    
+    section 7
+    撰寫使用手冊    :after a5 ,25d
+    section 8
+    轉換檔案     :after a5  , 20d
+    section 9
 
 
 
